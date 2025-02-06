@@ -6,7 +6,7 @@ Usage :
 1) make
 2) ./server
 3) ./client <pid server> <message>
-
+Usage bonus :
 1) make bonus
 2) ./server_bonus
 3) ./client <pid server> <message>
