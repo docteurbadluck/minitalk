@@ -1,6 +1,5 @@
-![Screenshot from 2025-02-06 17-08-03](https://github.com/user-attachments/assets/59d6e0a2-4273-4697-a118-1c6f028b387b)
 
-[minitalk.pdf](https://github.com/user-attachments/files/18692901/minitalk.pdf)
+<img width="1200" height="506" alt="Screen-Recording-final" src="https://github.com/user-attachments/assets/b3ce9b31-cb65-4e75-8e78-27acc10ad53f" />
 
 Usage : 
 1) make
